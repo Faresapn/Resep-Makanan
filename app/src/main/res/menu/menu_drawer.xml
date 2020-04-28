@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_home"
+            android:icon="@drawable/ic_drawer_home"
+            android:title="@string/drawer_home" />
+
+        <item
+            android:id="@+id/drawer_rate"
+            android:icon="@drawable/ic_drawer_rate"
+            android:title="@string/drawer_rate" />
+
+        <item
+            android:id="@+id/drawer_more"
+            android:icon="@drawable/ic_drawer_more"
+            android:title="@string/drawer_more" />
+
+        <item
+            android:id="@+id/drawer_about"
+            android:icon="@drawable/ic_drawer_about"
+            android:title="@string/drawer_about" />
+
+        <item
+            android:id="@+id/drawer_policy"
+            android:icon="@drawable/ic_drawer_about"
+            android:title="@string/drawer_policy" />
+    </group>
+
+</menu>

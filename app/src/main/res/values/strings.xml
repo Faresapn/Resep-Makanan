@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name"> health drink recipe simple</string>
+
+    <!--tab name-->
+    <string name="tab1">Recent News</string>
+    <string name="tab2">Category</string>
+
+    <!--app about information-->
+    <string name="app_version">Version 1</string>
+    <string name="app_copyright">Copyright &#169; 2020 faresa \n All rights reserved</string>
+    <string name="app_email">faresaprasetyon@gmail.com</string>
+    <string name="rate_summary">Give your rate and feedback</string>
+    <string name="more_summary">More apps from developer</string>
+    <string name="title_app_name">Application Name</string>
+    <string name="title_app_version">Build Version</string>
+    <string name="title_app_email">Email</string>
+    <string name="title_app_copyright">Copyright</string>
+    <string name="title_app_rate">Rate</string>
+    <string name="title_app_more">More</string>
+
+    <!-- AdMob -->
+    <string name="admob_banner_id">ca-app-pub-1998515773839190/9295305165</string>
+    <string name="admob_interstitial_id">ca-app-pub-1998515773839190/6034717008</string>
+    <!-- Interstitial Counter -->
+    <string name="counter_admob">2</string>
+    <string name="counter_back_startapp">3</string>
+    <string name="counter_rate">5</string>
+
+    <!-- StartApp -->
+    <string name="startapp_app_id">999999999</string>
+
+    <string name="keyword">Keyword 1</string>
+
+    <!-- play store application link i.e more apps and share text -->
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Faresa+Production</string>
+    <string name="share_text">I Would like to share this with you. Here You Can Download This Application from PlayStore</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_home">Home</string>
+    <string name="drawer_favorite">Favorite</string>
+    <string name="drawer_rate">Rate</string>
+    <string name="drawer_policy">Privacy Policy</string>
+    <string name="drawer_more">More</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="drawer_visibility">@string/drawer_content_on</string>
+    <string name="drawer_content_on">0</string>
+    <string name="drawer_content_off">2</string>
+
+    <!--network-->
+    <string name="failed_connect_network">No Internet Connection!!</string>
+    <string name="loading">Loading&#8230;</string>
+
+    <!--others-->
+    <string name="search_query_text">Search&#8230;</string>
+    <string name="search_hint">Hint</string>
+    <string name="menu_share">Share</string>
+    <string name="stats">Stats</string>
+    <string name="search">Search</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="img_no">No Favorite Found</string>
+    <string name="desc">desc</string>
+    <string name="favorite_added">Added to Favorite</string>
+    <string name="favorite_removed">Removed from Favorite</string>
+    
+</resources>
