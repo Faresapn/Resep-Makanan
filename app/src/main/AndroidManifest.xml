@@ -15,7 +15,7 @@
         android:name="com.yayanet.resep_dalgona_coffee.NewsApplication"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_launcher_n"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
@@ -23,7 +23,7 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1998515773839190~9973962019"/>
+            android:value="ca-app-pub-1998515773839190~5130716916"/>
 
         <activity
             android:name="com.yayanet.resep_dalgona_coffee.activities.MainActivity"

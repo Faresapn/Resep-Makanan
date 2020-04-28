@@ -10,8 +10,8 @@
 
     <!--app about information-->
     <string name="app_version">Version 1</string>
-    <string name="app_copyright">Copyright &#169; 2020 faresa \n All rights reserved</string>
-    <string name="app_email">faresaprasetyon@gmail.com</string>
+    <string name="app_copyright">Copyright &#169; 2020 alfara \n All rights reserved</string>
+    <string name="app_email">Health Drink</string>
     <string name="rate_summary">Give your rate and feedback</string>
     <string name="more_summary">More apps from developer</string>
     <string name="title_app_name">Application Name</string>
@@ -22,8 +22,8 @@
     <string name="title_app_more">More</string>
 
     <!-- AdMob -->
-    <string name="admob_banner_id">ca-app-pub-1998515773839190/9295305165</string>
-    <string name="admob_interstitial_id">ca-app-pub-1998515773839190/6034717008</string>
+    <string name="admob_banner_id">ca-app-pub-1998515773839190/1498593661</string>
+    <string name="admob_interstitial_id">ca-app-pub-1998515773839190/5246266984</string>
     <!-- Interstitial Counter -->
     <string name="counter_admob">2</string>
     <string name="counter_back_startapp">3</string>

@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 //        StartAppSDK.init(this, getString(R.string.startapp_app_id), true);
 
         setContentView(R.layout.activity_main);
-        MobileAds.initialize(this, "ca-app-pub-1741485245670322~4154379267");
+        MobileAds.initialize(this, "ca-app-pub-9345816123248096~5816741497");
 
         // StartApp
         AM = new AdManager(this);
