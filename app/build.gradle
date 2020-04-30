@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion '27.0.3'
     defaultConfig {
-        applicationId 'com.abi.recipe'
+        applicationId 'com.nafidinara.recipedrink'
 
         minSdkVersion 16
         targetSdkVersion 28
